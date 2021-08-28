@@ -5,6 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node ./src/index.ts",
+    "prettier": "prettier . -w",
     "test": "jest"
   },
   "author": "joelthecoder",
