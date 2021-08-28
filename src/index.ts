@@ -1,1 +1,1 @@
-console.log(`🚀 And we're live!`);
+console.log(`🚀 And we're live!`)
