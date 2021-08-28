@@ -9,3 +9,4 @@ A template to help me write small apps quicker.
 - jest
 - axios
 - lodash
+- minimist (https://github.com/substack/minimist)
