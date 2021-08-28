@@ -4,8 +4,15 @@
   "description": "A template to build apps faster",
   "main": "index.ts",
   "scripts": {
+    "start": "ts-node ./index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joelthecoder",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.7.4",
+    "ts-node": "^10.2.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.2"
+  }
 }
