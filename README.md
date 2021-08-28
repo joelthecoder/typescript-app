@@ -8,3 +8,4 @@ A template to help me write small apps quicker.
 - prettier
 - jest
 - axios
+- lodash
