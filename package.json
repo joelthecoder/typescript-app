@@ -2,9 +2,9 @@
   "name": "typescript-app",
   "version": "0.0.1",
   "description": "A template to build apps faster",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node ./index.ts",
+    "start": "ts-node ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joelthecoder",
