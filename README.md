@@ -11,3 +11,11 @@ A template to help me write small apps quicker.
 - [lodash](https://github.com/lodash/lodash)
 - [minimist](https://github.com/substack/minimist)
 
+## Usage
+
+```shell
+$ git clone git@github.com:joelthecoder/typescript-app.git
+$ cd ./typescript-app
+$ npm install
+$ npm start
+```
