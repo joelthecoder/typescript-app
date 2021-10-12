@@ -10,6 +10,7 @@ A template to help me write small apps quicker.
 - [axios](https://github.com/axios/axios)
 - [lodash](https://github.com/lodash/lodash)
 - [minimist](https://github.com/substack/minimist)
+- [express](https://github.com/expressjs/express)
 
 ## Usage
 
