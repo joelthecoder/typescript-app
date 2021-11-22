@@ -1,16 +1,18 @@
 # TypeScript App
 
-A template to help me write small apps quicker.
+A template for writing TypeScript apps with some basic config.
+
+https://typescript-app.herokuapp.com/
 
 ## Notable Packages
 
-- [eslint](https://github.com/eslint/eslint)
-- [prettier](https://github.com/prettier/prettier)
-- [jest](https://github.com/facebook/jest)
 - [axios](https://github.com/axios/axios)
+- [eslint](https://github.com/eslint/eslint)
+- [express](https://github.com/expressjs/express)
+- [jest](https://github.com/facebook/jest)
 - [lodash](https://github.com/lodash/lodash)
 - [minimist](https://github.com/substack/minimist)
-- [express](https://github.com/expressjs/express)
+- [prettier](https://github.com/prettier/prettier)
 
 ## Usage
 
