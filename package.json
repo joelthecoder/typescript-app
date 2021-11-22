@@ -6,7 +6,6 @@
   "scripts": {
     "build": "rimraf dist && tsc",
     "start": "npm run build && node dist/index.js",
-    "start:repl": "USE_REPL=true ts-node ./src/index.ts",
     "dev": "PORT=3000 nodemon --exec ts-node src/index.ts --watch src",
     "prettier": "prettier . -w",
     "test": "jest"
@@ -28,6 +27,7 @@
     "jest": "27.3.1",
     "lodash": "4.17.21",
     "minimist": "1.2.5",
+    "nodemon": "2.0.15",
     "prettier": "2.4.1",
     "prettier-plugin-organize-imports": "2.3.4",
     "rimraf": "3.0.2",
