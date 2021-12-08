@@ -6,6 +6,6 @@ import { Express } from 'express';
  */
 export const setupRoutes = (app: Express): void => {
   app.get('/', (req, res) => {
-    res.send({ message: 'Hello World!'});
+    res.send({ message: 'Hello World!' });
   });
-}
+};

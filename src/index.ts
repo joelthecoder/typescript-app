@@ -14,6 +14,6 @@ const main = async (): Promise<void> => {
   });
 
   setupRoutes(app);
-}
+};
 
 void main();
