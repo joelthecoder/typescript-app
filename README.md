@@ -14,11 +14,11 @@ https://typescript-app.herokuapp.com/
 - [minimist](https://github.com/substack/minimist)
 - [prettier](https://github.com/prettier/prettier)
 
-## Usage
+## Running local development
 
 ```shell
 $ git clone git@github.com:joelthecoder/typescript-app.git
 $ cd ./typescript-app
-$ npm install
-$ npm start
+$ yarn
+$ yarn dev
 ```
