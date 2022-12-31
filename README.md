@@ -11,7 +11,7 @@ https://typescript-app.herokuapp.com/
 - [express](https://github.com/expressjs/express)
 - [jest](https://github.com/facebook/jest)
 - [lodash](https://github.com/lodash/lodash)
-- [minimist](https://github.com/substack/minimist)
+- [minimist](https://github.com/minimistjs/minimist)
 - [prettier](https://github.com/prettier/prettier)
 
 ## Running local development
