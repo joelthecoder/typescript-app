@@ -28,7 +28,7 @@
     "minimist": "1.2.7",
     "nodemon": "2.0.20",
     "prettier": "2.8.1",
-    "prettier-plugin-organize-imports": "3.2.1",
+    "prettier-plugin-organize-imports": "3.2.2",
     "rimraf": "3.0.2",
     "ts-node": "10.9.1",
     "tslib": "2.5.0",
