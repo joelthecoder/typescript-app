@@ -27,7 +27,7 @@
     "lodash": "4.17.21",
     "minimist": "1.2.7",
     "nodemon": "2.0.20",
-    "prettier": "2.8.3",
+    "prettier": "2.8.4",
     "prettier-plugin-organize-imports": "3.2.2",
     "rimraf": "4.1.2",
     "ts-node": "10.9.1",
